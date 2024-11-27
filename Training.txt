@@ -2,3 +2,4 @@ Deveops
 Aws Console
 Terraform
 kubernates
+Jira software
