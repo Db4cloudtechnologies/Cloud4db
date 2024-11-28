@@ -3,7 +3,7 @@ Aws Console
 Terraform
 kubernates
 Jira software
- jenkins
+jenkins
 Mangodb
 Details add
 jira Service management
