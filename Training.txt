@@ -6,3 +6,4 @@ Jira software
  jenkins
 Mangodb
 Details add
+jira Service management
