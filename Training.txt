@@ -3,8 +3,6 @@ Aws Console
 Terraform
 kubernates
 Jira software
-<<<<<<< HEAD
  jenkins
-=======
 Mangodb
->>>>>>> 8cc5a2e2c103ad51347681749071ada47fd389ca
+Details add
